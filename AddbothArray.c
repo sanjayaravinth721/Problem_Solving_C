@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include <math.h>
-#include <stdlib.h>
+
 void calculate(int arr1[],int arr2[],int n,int m){
    
     int i=n-1;
